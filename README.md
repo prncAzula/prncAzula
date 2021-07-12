@@ -17,11 +17,8 @@
 
 ### 联系方式和语言
 
-speak with me in Korean, Japanese or Chinese
-| JP and ZH mid level
-My Github language can actually change
-| 我准备好用所有三种语言进行对话
-不要介意我的错误
+Korean, Japanese or Chinese.
+My Github language can change
 
 # 存储库
 
