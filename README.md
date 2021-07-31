@@ -7,7 +7,7 @@
 [![一人の男の統計](https://github-readme-stats.vercel.app/api/wakatime?username=539a38a4-ec0d-44fe-a323-32b42ac0ecc1&theme=midnight-purple)](https://github.com/prncAzula/github-readme-stats)
 
 # About 
-Korean, Chinese, English, German a little bit Japanese
+Korean, Chinese, English, German, and a little bit of Japanese
 working with @AmaNecko
 
 # Languages 
