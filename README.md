@@ -6,6 +6,9 @@
 
 [![一人の男の統計](https://github-readme-stats.vercel.app/api/wakatime?username=539a38a4-ec0d-44fe-a323-32b42ac0ecc1&theme=midnight-purple)](https://github.com/prncAzula/github-readme-stats)
 
+# 汉语 🇨🇳
+<br>
+
 # 语
 
 * **PHP** 
@@ -28,8 +31,14 @@
 | 原神 | 可见的 | 过程进行中的工作 |[Genshin](github.com/prncAzula/Genshin/) | 还没有语言 |
 | 计算器 | 可见的 | 大部分完成 |[Calculator](https://github.com/prncAzula/Calculator) | Python |
 | 运行时应用 | 私自 🔒 | 过程进行中的工作 |[运行时应用](https://github.com/prncAzula/runtime) | Python |
+# CHINESE VERSION END
+<br>
+<br>
+<br>
+<br>
 
-# 日本語
+# 日本語 🇯🇵
+<br>
 
 # 言語
 
@@ -54,6 +63,4 @@
 | 原神 | 見える | 進行中の作業 |[Genshin](github.com/prncAzula/Genshin/) | 言語はまだありません |
 | 计算器 | 見える | ほとんど完了 |[Calculator](https://github.com/prncAzula/Calculator) | Python |
 | 运行时应用 | 個人的に 🔒 | 進行中の作業 |[运行时应用](https://github.com/prncAzula/runtime) | Python |
-
-
-
+# JAPANESE VERSION END
