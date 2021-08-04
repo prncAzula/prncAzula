@@ -1,4 +1,4 @@
-# 統計
+# 统计数据 | 통계 데이터
 
 ![一人の男の統計](https://github-readme-stats.vercel.app/api?username=prncAzula&theme=midnight-purple&show_icons=true)
 
@@ -72,53 +72,3 @@ working with @AmaNecko
 
 # Note
 <br> I didn't link everything for my own security
-
-# 汉语 🇨🇳
-<br>
-
-
-# 存储库
-
-| 名称 | 能见度 | 地位 | 存储库 | 使用的语言 |
-| --- | --- | --- | --- | --- |
-| 青妍 | 私自 🔒 | 过程进行中的工作 |[Qing](https://github.com/prncAzula/Qing)| JavaScript (electron), (Python), HTML, CSS |
-| 原神 | 可见的 | 过程进行中的工作 |[Genshin](github.com/prncAzula/Genshin/) | 还没有语言 |
-| 计算器 | 可见的 | 大部分完成 |[Calculator](https://github.com/prncAzula/Calculator) | Python |
-| 运行时应用 | 私自 🔒 | 过程进行中的工作 |[运行时应用](https://github.com/prncAzula/runtime) | Python |
-# CHINESE VERSION END
-<br>
-<br>
-<br>
-<br>
-
-# 日本語 🇯🇵
-<br>
-
-# リポジトリ
-
-
-| 名前 | 視認性 | 状態 | リポジトリ | 使用言語 |
-| --- | --- | --- | --- | --- |
-| 青妍 | 個人的に 🔒 | 進行中の作業 |[Qing](https://github.com/prncAzula/Qing)| JavaScript (electron), (Python), HTML, CSS |
-| 原神 | 見える | 進行中の作業 |[Genshin](github.com/prncAzula/Genshin/) | 言語はまだありません |
-| 计算器 | 見える | ほとんど完了 |[Calculator](https://github.com/prncAzula/Calculator) | Python |
-| 运行时应用 | 個人的に 🔒 | 進行中の作業 |[运行时应用](https://github.com/prncAzula/runtime) | Python |
-# JAPANESE VERSION END
-<br>
-<br>
-<br>
-<br>
-
-# 한국어 🇰🇷
-<br>
-
-# 저장소
-
-
-| 이름 | 시인성 | 상태 | 저장소 | 언어 |
-| --- | --- | --- | --- | --- |
-| 青妍 | 사적인 🔒 | 진행중인 작업 |[Qing](https://github.com/prncAzula/Qing)| JavaScript (electron), (Python), HTML, CSS |
-| 原神 | 보이는 | 진행중인 작업 |[Genshin](github.com/prncAzula/Genshin/) | 언어는 아직 없습니다 |
-| 计算器 | 보이는 | 거의 끝났다 |[Calculator](https://github.com/prncAzula/Calculator) | Python |
-| 运行时应用 | 사적인 🔒 | 진행중인 작업 |[运行时应用](https://github.com/prncAzula/runtime) | Python |
-# KOREAN VERSION END 
