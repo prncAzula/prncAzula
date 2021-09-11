@@ -6,7 +6,6 @@
 
 [![一人の男の統計](https://github-readme-stats.vercel.app/api/wakatime?username=@necko&theme=midnight-purple)](https://github.com/prncAzula/github-readme-stats)
 # About 
-Korean, Chinese, English, Japanese
 working with @AmaNecko
 
 # Languages 
