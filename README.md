@@ -15,7 +15,7 @@
 
 - 💬 あなたにぴったりのQUOTEEEは？
 
-- 💛 @Amaneckoの後、Appleの引用は私のお気に入りの友達です **@AmaNecko@AmaNecko すべてが連係。**
+- 💛 @Amaneckoの後、Appleの引用は私のお気に入りの友達です
 
 - 代替連絡先 **neckohaha@naver.com**
 
