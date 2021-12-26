@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/neckkkoo" target="blank"><img src="https://img.shields.io/twitter/follow/neckkkoo?logo=twitter&style=for-the-badge" alt="neckkkoo" /></a> </p>
 
-- 🇯🇵 わたしは　外国語を　勉強するのが　すきです。
+- 🇯🇵 わたしは外国語を勉強するのがすきです。
 
 - 🍏 できること、 超人的。
 
