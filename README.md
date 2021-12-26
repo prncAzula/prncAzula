@@ -7,11 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/neckkkoo" target="blank"><img src="https://img.shields.io/twitter/follow/neckkkoo?logo=twitter&style=for-the-badge" alt="neckkkoo" /></a> </p>
 
+- 🇯🇵 わたしは　外国語を　勉強するのが　すきです。
+
+- 🍏 できること、 超人的。
+
+- 🔒 プライバシーを守る。
+
+- 💬 あなたにぴったりのQUOTEEEは？
+
 - 💛 @Amaneckoの後、Appleの引用は私のお気に入りの友達です **@AmaNecko@AmaNecko すべてが連係。**
 
 - 代替連絡先 **neckohaha@naver.com**
 
 - 📫 連絡先 **github.necko@icloud.com**
+
 
 <h3 align="left"> Twitterでつながりましょう:</h3>
 <p align="left">
