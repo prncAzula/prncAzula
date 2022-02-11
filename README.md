@@ -9,15 +9,7 @@
 
 - 🇯🇵 わたしは外国語を勉強するのがすきです。
 
-- 🍏 できること、 超人的。
-
 - 🔒 プライバシーを守る。
-
-- 💬 あなたにぴったりのQUOTEEEは？
-
-- 💛 @Amaneckoの後、Appleの引用は私のお気に入りの友達です
-
-- 代替連絡先 **neckohaha@naver.com**
 
 - 📫 連絡先 **github.necko@icloud.com**
 
