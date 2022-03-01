@@ -11,8 +11,6 @@
 
 - 🔒 プライバシーを守る。
 
-- 📫 連絡先 **github.necko@icloud.com**
-
 
 <h3 align="left"> Twitterでつながりましょう:</h3>
 <p align="left">
