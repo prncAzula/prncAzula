@@ -1,13 +1,13 @@
 
 
-<h1 align="center">皆さんこんにちは。👋 私はねこです。</h1>
-<h3 align="center">違った考え方をしなさい。</h3>
+<h1 align="center">Hey or Hello</h1>
+<h3 align="center">Think different. Do different</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prncazula&label=Profile%20views&color=273bd3&style=flat" alt="prncazula" /> </p>
 
 <p align="left"> <a href="https://twitter.com/neckkkoo" target="blank"><img src="https://img.shields.io/twitter/follow/neckkkoo?logo=twitter&style=for-the-badge" alt="neckkkoo" /></a> </p>
 
-- 🇯🇵 わたしは外国語を勉強するのがすきです。
+- 🇯🇵 I love learning languages
 
 - 🔒 プライバシーを守る。
 
