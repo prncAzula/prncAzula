@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Success is not a comforable procedure.</h1>
+<h1 align="center">Success is not a comfortable procedure.</h1>
 <h3 align="center">Think different. Do different</h3>
 
 
